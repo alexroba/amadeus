@@ -1,0 +1,1 @@
+<?php // Datos de configuración de la aplicación.// private y protected -->  $_class Config{     // Configuración de la base de datos.    public static $dbServidor = 'www.alexroba.local';    public static $dbUsuario = 'c17alexroba';    public static $dbPassword = 'abc123.';    public static $dbDatabase = 'c17alexroba';    }?>
